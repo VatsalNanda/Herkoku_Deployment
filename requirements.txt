@@ -13,4 +13,7 @@ pytube==11.0.0
 moviepy==1.0.3
 pydub==0.25.1
 mutagen==1.45.1
-
+ffmpeg-python==0.2.0
+ffmpeg==1.4
+ffprobe==0.5
+ffprobe-python==1.0.3
